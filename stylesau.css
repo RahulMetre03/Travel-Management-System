@@ -67,91 +67,106 @@ list-style: none;
   width: 1520px;
   height: 670px;
   margin: 2px;
-  background-color: palevioletred;
+  background-color: #ECBE07;
   position: fixed;
   top: 80px;
 }
+
 .Dharmika{
   display: inline-block;
   border: 2px solid red;
-  width: 550px;
-  height: 182px;
+  width: 250px;
+  height: 290px;
   margin: 2px;
   border-radius: 25px;
   position: fixed;
-  top: 190px;
-  left: 180px;
-  background-color: #735aa4;
+  top: 300px;
+  left: 70px;
+  background-color: #a49b5a;
 }
 .DharmikaImg img{
-  width: 125px;
+  height: 190px;
+  width: 240px;
   position: relative;
-  left: 400px;
+  left: 05px;
   top: -40px;
+  border-radius: 25px;
 }
 .Rahul{
   display: inline-block;
   border: 2px solid red;
-  width: 550px;
-  height: 182px;
+  width: 250px;
+  height: 290px;
   margin: 2px;
   border-radius: 25px;
   position: fixed;
-  top: 190px;
-  left: 800px;
-  background-color: #735aa4;
+  top: 300px;
+  left: 420px;
+  background-color: #a49b5a;
 }
 .RahulImg img{
-  width: 125px;
+  height: 190px;
+  width: 240px;
   position: relative;
-  left: 400px;
+  left: 05px;
   top: -40px;
+  border-radius: 25px;
 }
 .Ananya{
   display: inline-block;
   border: 2px solid red;
-  width: 550px;
-  height: 182px;
+  width: 250px;
+  height: 290px;
   margin: 2px;
   border-radius: 25px;
   position: fixed;
-  top: 430px;
-  left: 800px;
-  background-color: #735aa4;
+  top: 300px;
+  left: 780px;
+  background-color: #a49b5a;
 }
 .AnanyaImg img{
-  width: 125px;
+  height: 190px;
+  width: 240px;
   position: relative;
-  left: 400px;
+  left: 05px;
   top: -40px;
+  border-radius: 25px;
 }
 .Piyush{
   display: inline-block;
   border: 2px solid red;
-  width: 550px;
-  height: 182px;
+  width: 250px;
+  height: 290px;
   margin: 2px;
   border-radius: 25px;
   position: fixed;
-  top: 430px;
-  left: 180px;
-  background-color: #735aa4;
+  top: 300px;
+  left: 1120px;
+  background-color: #a49b5a;
 }
 .PiyushImg img{
-  width: 125px;
+  height: 190px;
+  width: 240px;
   position: relative;
-  left: 400px;
+  left: 05px;
   top: -40px;
+  border-radius: 25px;
 }
 h2{
   position: relative;
-  top: 7px;
+  top: 170px;
   left:10px;
- color: aqua;
+ color: black;
 }
 h3{
   position: relative;
-  top: 38px;
+  top: 210px;
+  left:10px;
+  color: black;
+}
+h4{
+  position: relative;
+  top: 190px;
   left:10px;
 }
 .logo1 img{
@@ -160,4 +175,11 @@ h3{
   top:366px;
   left: 735px;
   border-radius: 20%;
+}
+h1{
+ position: fixed;
+ left: 450px;
+ top: 140px; 
+ font-size: 500%;
+ font-family: cursive;
 }
